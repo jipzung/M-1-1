@@ -56,18 +56,3 @@
 4. 원칙:
    - 제공된 자료에 없는 사실을 지어내지 말고, 모호하거나 정보가 부족하면 먼저 질문한다.
    - 말투는 친절하고 명확하게 유지한다.
-
-
-[프롬프트 v1]
-아래는 "I bet"이 들어간 대화들을 내가 1차로 나눈 거야. 유형 분류 체크해줘.
-
-[Category A - 3개]
-1) A: I have a job interview tomorrow. / B: I bet you're nervous.
-2) A: We've been driving for six hours. / B: I bet you're exhausted.
-3) A: Moving to a new city alone must be tough. / B: I bet it's overwhelming.
-
-[Category B - 4개]
-1) A: You think it'll rain later? / B: I bet it will.
-2) A: Do you think he passed the test? / B: I bet he did.
-3) A: I have to wake up at 5 AM tomorrow. / B: I bet you're tired.
-4) A: We're going to win tonight. / B: I bet you do.
