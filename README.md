@@ -9,5 +9,5 @@
 
 1. [docs/model-comparison.md](docs/model-comparison.md): 모델 3종을 같은 기준 4개로 비교한 표와 선정 결론
 2. [docs/system-design.md](docs/system-design.md): 페르소나, 시스템 프롬프트 v1과 v2, Few-shot 예시, 검증 전략, 환각 검증 질문과 판정
-3. [docs/run-log.md](docs/run-log.md): 작업 기록과 20턴 대화 전문
-4. [docs/unresolved.md](docs/unresolved.md): 프롬프트를 고쳐도 해결하지 못한 과업 2건
+3. [docs/run-log.md](docs/run-log.md): 작업 기록과 10턴 대화 전문
+4. [docs/unresolved.md](docs/unresolved.md): 해결하지 못한 과업이 없었음
