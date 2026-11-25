@@ -118,4 +118,5 @@
    * 모호하거나 정보가 부족하면 먼저 질문한다.
    * 말투는 친절하고 명확하게 유지한다.
      
-- v2에서 수정한 내용과 이유 : Few-shot결과와 Zero-shot결과에 차이가 없어서, context engineering 측면에서 예시를 빼고 프롬프트를 더 간결하게 함
+**v2에서 수정한 내용과 이유** : Few-shot결과와 Zero-shot결과에 차이가 없어서, context engineering 측면에서 예시를 빼고 프롬프트를 더 간결하게 함
+
