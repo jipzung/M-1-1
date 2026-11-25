@@ -93,6 +93,111 @@ Susan:  My junior year. How'd you know?
 Mrs Tilman:  I bet you miss your mother. I'm sure things were different when she was alive, such a warm and loving woman.
 Zach:  You knew my mother?
 
+
 Carlos:  Come on. Let's not argue. I want us to end this as friends. 
 Edie:  I bet you do, given all I know about your finances. 
+
+AI: [턴 4]
+
+강사님, 파일 잘 받았어요! 😊 "I bet" 대화 8개를 분석해 봤어요.
+
+1. 1차 분류 점검
+
+원본 카테고리 안에 유형이 섞여 있었어요.
+
+원래 위치	대화	세부 유형
+A	Diana / Gabrielle: "I bet that was hard"	상대 감정 짐작
+A	Susan / Andrew: "I bet you love having your own place"	상대 감정 짐작
+A	Bree: "I bet they're as good as the marinara sauce"	사실·상태 짐작
+A	Sophie / Hector: "Oh, I bet you do"	비꼼
+B	Andrew: "I bet it's about my scholarship"	사실·상태 짐작
+B	Edie / Susan: "I bet you were a cheerleader"	사실·상태 짐작
+B	Mrs Tilman: "I bet you miss your mother"	상대 감정 짐작
+B	Carlos / Edie: "I bet you do, given all I know…"	비꼼
+Category A: 감정 짐작 2개, 사실 짐작 1개, 비꼼 1개라서 가장 많은 **'상대 감정 짐작'**을 A의 의도로 잡았어요.
+Category B: 사실 짐작 2개, 감정 짐작 1개, 비꼼 1개라서 **'사실·상태 짐작'**을 B의 의도로 잡았어요.
+비꼼 2개는 A, B 어디에도 맞지 않아서 새 카테고리 Category C로 뺐어요. 기존 카테고리가 A, B뿐이라 C부터 시작했어요.
+재정비 결과
+카테고리	대화
+A	Diana/Gabrielle, Susan/Andrew, Mrs Tilman/Zach (B에서 이동)
+B	Andrew의 scholarship, Edie/Susan cheerleader, Bree의 clams (A에서 이동)
+C (신설)	Sophie/Hector (A에서 이동), Carlos/Edie (B에서 이동)
+
+⚠️ 확인 부탁드려요. Susan/Andrew("I bet you love having your own place")는 제가 '감정 짐작'으로 봤어요. 만약 강사님이 이걸 '감정 공감'이 아니라 '가벼운 안부성 말 걸기'로 보신다면 A 안에서 유형이 1:1:1로 갈려서 동률이 돼요. 그 경우 알려주시면 다시 정리할게요.
+
+2. 한국어 별명
+A: "그랬겠다~" 공감 짚기형. 상대 마음을 알아채고 먼저 건네는 말이에요.
+B: "내 촉엔 이거야" 찍기형. 사실이나 상황을 자신 있게 짐작하는 말이에요.
+C: "그러시겠지~" 비꼼형. 겉으론 맞장구지만 속으론 안 믿거나 꼬집는 말이에요.
+3. 실생활 대화 예시
+A. "그랬겠다~" 공감 짚기형
+
+Set 1
+
+A: I finally finished my thesis yesterday.
+B: Oh, I bet you're relieved!
+A: You have no idea. I slept for twelve hours.
+
+Set 2
+
+A: My dog passed away last week.
+B: I'm so sorry. I bet the house feels really empty.
+A: It does. I keep listening for him at the door.
+
+Set 3
+
+A: Your sister just moved to Busan, right?
+B: Yeah, last month.
+A: I bet you miss her already.
+B: Honestly, yes. We used to have dinner together every night.
+
+B. "내 촉엔 이거야" 찍기형
+
+Set 1
+
+A: Why is the boss calling a meeting at 4?
+B: I bet it's about the budget.
+A: Yeah, probably. Everyone's been stressed about it.
+
+Set 2
+
+A: Look, there's a line out the door!
+B: I bet the food is amazing. Let's wait.
+A: Okay, but if it's over an hour, I'm leaving.
+
+Set 3
+
+A: That guy's jacket says "Boston Marathon."
+B: I bet he's a runner.
+A: Or he bought it at a thrift store. Ha!
+
+C. "그러시겠지~" 비꼼형
+
+Set 1
+
+A: I'm only asking because I care about you.
+B: Oh, I bet you do.
+A: What's that supposed to mean?
+
+Set 2
+
+A: I'd love to help you move this weekend.
+B: Yeah, I bet you would. You said that last time, and then you "got sick."
+A: Okay, fair.
+
+Set 3
+
+A: I didn't touch your cake.
+B: Oh, I bet you didn't. You have frosting on your chin.
+A: ...Okay, maybe one bite.
+
+💡 수업 팁: C유형은 문장만 보면 A, B와 똑같아서, 억양(끌어올리고 늘이는 톤)과 상황으로 구분해야 한다는 점을 학생들에게 꼭 짚어주세요. 같은 "I bet you do"가 진심 공감도 되고 비꼼도 될 수 있거든요.
+
+수정하고 싶은 부분이 있으면 말씀해 주세요!
+
+User: [턴 5]
+
+Sophie, Hector 대화에서, 저 드라마속 상황은 Sophie와 Hector가 서로 flirting 하며 서로에게 이성적 호감을 느끼는 상황에서 나온 "Oh, I bet you do" 인데, 그렇다면, C유형에는 기분좋은 비꼼도 포함된다고 보면 되나? 아니면 첨부된 대화가 너무 짧아서 실제 상황이 제대로 전달되지 않았기 때문에 비꼬는 말투로 보였던 건가?
+
+AI: [턴 6]
 
